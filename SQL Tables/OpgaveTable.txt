@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[OpgaveTable] (
+    [OpgaveID]    INT NOT NULL IDENTITY(1,1),
+	[BrugerID]  INT         NOT NULL,
+	[Nummerplade]  TEXT         NOT NULL,
+	[Opgave]  TEXT         NOT NULL,
+	[KM]  INT         NOT NULL,
+    [DatoOprettet]  DATETIME         NOT NULL,
+
+	CONSTRAINT fk_OpgaveTable_UserTable FOREIGN KEY (BrugerID) REFERENCES UserTable (BrugerID),
+
+    PRIMARY KEY CLUSTERED ([OpgaveID] ASC)
+);

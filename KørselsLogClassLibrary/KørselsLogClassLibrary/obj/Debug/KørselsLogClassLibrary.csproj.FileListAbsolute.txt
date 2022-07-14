@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\bin\Debug\KørselsLogClassLibrary.dll
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\bin\Debug\KørselsLogClassLibrary.pdb
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\obj\Debug\KørselsLogClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\obj\Debug\KørselsLogClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\obj\Debug\KørselsLogClassLibrary.dll
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogClassLibrary\KørselsLogClassLibrary\obj\Debug\KørselsLogClassLibrary.pdb

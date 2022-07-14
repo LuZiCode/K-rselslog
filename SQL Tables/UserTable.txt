@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[UserTable] (
+    [BrugerID]    INT NOT NULL IDENTITY(1,1),
+	[Navn]  TEXT         NOT NULL,
+	[Nummerplade]  TEXT         NOT NULL,
+	[KM]  INT         NOT NULL,
+    [DatoOprettet]  DATETIME         NOT NULL,
+    [DatoRedigeret]  DATETIME,
+
+    PRIMARY KEY CLUSTERED ([BrugerID] ASC)
+);
+

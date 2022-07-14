@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\bin\Debug\KørselsLogFormsApp.exe.config
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\bin\Debug\KørselsLogFormsApp.exe
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\bin\Debug\KørselsLogFormsApp.pdb
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.MainMenu.resources
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.exe
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.pdb
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\bin\Debug\KørselsLogClassLibrary.dll
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\bin\Debug\KørselsLogClassLibrary.pdb
+C:\Users\Administrator\Desktop\KørselLogProgram\KørselsLogFormsApp\KørselsLogFormsApp\obj\Debug\KørselsLogFormsApp.csproj.CopyComplete
